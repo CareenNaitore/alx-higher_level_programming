@@ -3,5 +3,5 @@
 
 
 class Square:
-    # an empty Square
+    """ an empty Square"""
     pass
