@@ -12,10 +12,12 @@ Write a function that returns True if the object is exactly an instance of the s
 
 3. Same class or inherit from
 
-Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inh>
+Write a function that returns True if the object is an instance of, or if the object is an instance of a class that inheritance
+
 4. Only sub class of
 
-Write a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from>
+Write a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from
+
 5. Geometry module
 
 Write an empty class BaseGeometry.
