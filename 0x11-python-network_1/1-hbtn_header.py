@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """A script that takes in a URL,
-Sends a request to the URL, 
+Sends a request to the URL,
 Displays  the X-Request-Id found in the header ofthe response.
 """
 
